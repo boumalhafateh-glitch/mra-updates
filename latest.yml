@@ -1,8 +1,8 @@
-version: 4.0.5
+version: 4.0.7
 files:
-  - url: https://media.githubusercontent.com/media/boumalhafateh-glitch/mra-updates/main/MRA-ERP-Setup-4.0.5.exe
-    sha512: dxJi7L6r5DUXzbjpQnt4ok6dSYWg+BscqRsnfHc0qH/aNOW335fNoEBERgP5dNDe/V5wWi3+pduaycsXVLQl9w==
-    size: 367545398
-path: MRA-ERP-Setup-4.0.5.exe
-sha512: dxJi7L6r5DUXzbjpQnt4ok6dSYWg+BscqRsnfHc0qH/aNOW335fNoEBERgP5dNDe/V5wWi3+pduaycsXVLQl9w==
-releaseDate: 2026-09-13T14:18:50.371Z
+  - url: https://media.githubusercontent.com/media/boumalhafateh-glitch/mra-updates/main/MRA-ERP-Setup-4.0.7.exe
+    sha512: JtafpbhpYcg8Ds0hoggfZ9UDdqdjbRMN8FGc+g6ZzDmXl599CqwbDtcJ6p0w9WLgCeumRBsifJjw65i2kL0YfQ==
+    size: 367564284
+path: MRA-ERP-Setup-4.0.7.exe
+sha512: JtafpbhpYcg8Ds0hoggfZ9UDdqdjbRMN8FGc+g6ZzDmXl599CqwbDtcJ6p0w9WLgCeumRBsifJjw65i2kL0YfQ==
+releaseDate: 2026-09-18T00:12:01.969Z
